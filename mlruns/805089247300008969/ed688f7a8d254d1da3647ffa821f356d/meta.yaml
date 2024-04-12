@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/805089247300008969/ed688f7a8d254d1da3647ffa821f356d/artifacts
+end_time: 1712885708135
+entry_point_name: ''
+experiment_id: '805089247300008969'
+lifecycle_stage: active
+run_id: ed688f7a8d254d1da3647ffa821f356d
+run_name: able-rook-653
+run_uuid: ed688f7a8d254d1da3647ffa821f356d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712885703283
+status: 3
+tags: []
+user_id: vamseekrishna
